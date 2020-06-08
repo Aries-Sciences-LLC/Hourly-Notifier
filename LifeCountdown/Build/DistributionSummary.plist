@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>LifeCountdown.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string></string>
+				<key>dateExpires</key>
+				<string></string>
+				<key>type</key>
+				<string>Unknown</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string></string>
+						<key>dateExpires</key>
+						<string></string>
+						<key>type</key>
+						<string>Unknown</string>
+					</dict>
+					<key>name</key>
+					<string>ADDatePicker.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>QXNMG5R4EQ</string>
+						<key>name</key>
+						<string>Burcu Mirza</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string></string>
+						<key>dateExpires</key>
+						<string></string>
+						<key>type</key>
+						<string>Unknown</string>
+					</dict>
+					<key>name</key>
+					<string>KDCircularProgress.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>QXNMG5R4EQ</string>
+						<key>name</key>
+						<string>Burcu Mirza</string>
+					</dict>
+				</dict>
+			</array>
+			<key>name</key>
+			<string>LifeCountdown.app</string>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>QXNMG5R4EQ</string>
+				<key>name</key>
+				<string>Burcu Mirza</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
